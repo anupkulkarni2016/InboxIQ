@@ -1,0 +1,21 @@
+Traceback (most recent call last):
+  File "C:\Users\ACER\smart-inbox\src\main.py", line 2, in <module>
+    from gmail_imap import fetch_last_24h   # if you're using IMAP
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ACER\smart-inbox\src\gmail_imap.py", line 3, in <module>
+    from dotenv import load_dotenv
+ModuleNotFoundError: No module named 'dotenv'
+Traceback (most recent call last):
+  File "C:\Users\ACER\smart-inbox\src\main.py", line 2, in <module>
+    from gmail_imap import fetch_last_24h   # if you're using IMAP
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ACER\smart-inbox\src\gmail_imap.py", line 3, in <module>
+    from dotenv import load_dotenv
+ModuleNotFoundError: No module named 'dotenv'
+Traceback (most recent call last):
+  File "C:\Users\ACER\smart-inbox\src\main.py", line 2, in <module>
+    from gmail_imap import fetch_last_24h   # if you're using IMAP
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ACER\smart-inbox\src\gmail_imap.py", line 3, in <module>
+    from dotenv import load_dotenv
+ModuleNotFoundError: No module named 'dotenv'
